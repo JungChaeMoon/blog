@@ -1,9 +1,9 @@
-title: bitbrain
-url: https://bitbrain.github.io
-author: bitbrain
-email: miguel-gonzalez@gmx.de
+title: chaemoon
+url: https://jungchaemoon.github.io
+author: jungchaemoon
+email: chaemoon@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there, I am Miguel and I create games! Occasionally I blog about cloud, gamedev and web. Born and raised in Germany, studied in the Netherlands, currently living in the UK.
+  Hi there, chaemoon
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -19,7 +19,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: bitbrain-github-io
+    shortname: chaemoon-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
